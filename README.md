@@ -2,6 +2,6 @@
 I MAKE ART ON TWITTER/X AND DOING SOME RANDOM ARDUINO PROJECT.
 WHEN I DO A ARDUINO PROJECT I WILL MAKE A **REPOSITORY** OF IT
 ## LANGUAGES/TOOL I USE
-  - Arduino [<img src="[https://static.wikia.nocookie.net/regretevator/images/b/bc/Mach_render.png/revision/latest/scale-to-width-down/1000?cb=20240408051731]">]
-  - C++ 
-  - Python 
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="width:50px;height:50px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="width:50px;height:50px;">
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="width:50px;height:50px;">
