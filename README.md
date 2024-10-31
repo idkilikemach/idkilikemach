@@ -1,5 +1,6 @@
-The background color is `#000000` for light mode and `#000000` for dark mode.
-# HIII IM NO_USERNAME_CM
+# HIII IM NO_USERNAME_CM :D
+I MAKE ART AND DOING SOME RANDOM ARDUINO PROJECT
+## THINGS IM LEARNING RIGHT NOW
 * Arduino
 * C++
 * Python
