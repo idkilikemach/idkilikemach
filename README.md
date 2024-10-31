@@ -1,2 +1,5 @@
-<h1>HIIII</h1>
-<img src="https://static.wikia.nocookie.net/regretevator/images/b/bc/Mach_render.png/revision/latest/scale-to-width-down/1000?cb=20240408051731" style="width:500px;height:500px;">
+The background color is `#000000` for light mode and `#000000` for dark mode.
+# HIII IM NO_USERNAME_CM
+* Arduino
+* C++
+* Python
